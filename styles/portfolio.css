@@ -36,13 +36,13 @@ p {
   background: var(--secondary-color);
   text-align: center;
   padding: 160px 20px;
+  margin-bottom: 5px;
 }
 .hero p {
   font-size: 36px;
   font-weight: bold;
   margin: 0em;
   color: black;
-  padding-bottom: 5px;
 }
 .hero h2 {
   font-family: var(--heading-font-family);
