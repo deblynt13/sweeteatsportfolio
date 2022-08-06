@@ -58,7 +58,7 @@ p {
 }
 .btn-branding-outline {
   color: var(--branding-color);
-  border: 1px solid;
+  border: 1px solid var(--branding-color);
   border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
