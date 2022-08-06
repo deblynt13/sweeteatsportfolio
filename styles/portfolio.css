@@ -42,6 +42,7 @@ p {
   font-weight: bold;
   margin: 0em;
   color: black;
+  padding-bottom: 5px;
 }
 .hero h2 {
   font-family: var(--heading-font-family);
@@ -69,11 +70,11 @@ p {
   padding: 120px 60px;
 }
 @media (max-width: 960px) {
-    .project-description {
-        padding: 0;
-        text-align: center;
-    }
-    h2 {
-        font-size: 44px;
-    }
+  .project-description {
+    padding: 0;
+    text-align: center;
+  }
+  h2 {
+    font-size: 44px;
+  }
 }
