@@ -1,7 +1,12 @@
 /*font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif;*/
 
-h1 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: black;
   font-family: "Playfair Display", serif;
   font-weight: bold;
@@ -13,4 +18,8 @@ p {
 .hero {
   background: pink;
   text-align: center;
+}
+.hero p {
+  font-size: 36px;
+  font-weight: bold;
 }
