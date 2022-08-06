@@ -23,6 +23,7 @@ p {
 .hero {
   background: pink;
   text-align: center;
+  padding: 160px 20px;
 }
 .hero p {
   font-size: 36px;
