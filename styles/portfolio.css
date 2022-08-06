@@ -1,6 +1,10 @@
 /*font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif;*/
 
+:root {
+  --branding-color: #6c63ff;
+}
+
 h1,
 h2,
 h3,
@@ -38,7 +42,7 @@ p {
   font-size: 24px;
 }
 .btn-branding {
-  background: #6c63ff;
+  background: var(--branding-color);
   border-radius: 4px;
   color: white;
   font-size: 18px;
