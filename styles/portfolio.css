@@ -36,3 +36,8 @@ p {
   line-height: 2;
   font-size: 24px;
 }
+.btn-branding {
+  background: #6c63ff;
+  border-radius: 4px;
+  color: white;
+}
