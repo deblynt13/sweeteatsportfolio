@@ -80,6 +80,9 @@ p {
   font-size: 50px;
   color: pink;
   padding-bottom: 3px;
+  .about-section-content {
+    margin: 30px;
+  }
 }
 @media (max-width: 960px) {
   .project-description {
