@@ -79,6 +79,7 @@ p {
 .about-section h1 {
   font-size: 50px;
   color: pink;
+  padding-bottom: 3px;
 }
 @media (max-width: 960px) {
   .project-description {
