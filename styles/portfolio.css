@@ -72,11 +72,13 @@ p {
 .about-section {
   font-size: 64px;
   line-height: 80px;
-  color: pink;
 }
 .about-section h2 {
   font-size: 18px;
   font-family: var(--default-font-family);
+}
+.about-section h1 {
+  color: pink;
 }
 @media (max-width: 960px) {
   .project-description {
