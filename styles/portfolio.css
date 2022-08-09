@@ -72,6 +72,7 @@ p {
 .about-section {
   font-size: 64px;
   line-height: 80px;
+  padding: 120px 60px;
 }
 .about-section h2 {
   font-size: 18px;
