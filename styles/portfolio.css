@@ -69,13 +69,14 @@ p {
 .project-description {
   padding: 120px 60px;
 }
-.about-section{
-    font-size: 64px;
-    line-height: 80px;
+.about-section {
+  font-size: 64px;
+  line-height: 80px;
+  color: pink;
 }
 .about-section h2 {
-    font-size: 18px;
-    font-family: var(--default-font-family);
+  font-size: 18px;
+  font-family: var(--default-font-family);
 }
 @media (max-width: 960px) {
   .project-description {
@@ -92,5 +93,4 @@ p {
   .hero {
     padding: 80px 20px;
   }
-  
 }
