@@ -77,7 +77,7 @@ p {
   font-family: var(--default-font-family);
 }
 .about-section h1 {
-  font-size: 50px;
+  font-size: 45px;
   color: pink;
   padding-bottom: 3px;
   .about-section-content {
