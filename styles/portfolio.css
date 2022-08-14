@@ -127,7 +127,8 @@ p {
   footer .email-link:hover {
     color:var(--branding-color);
   }
-  footer .social-links {
+
+  footer .social-links a{
     margin: 0 20px;
   }
 
